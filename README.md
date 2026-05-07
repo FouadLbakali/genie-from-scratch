@@ -12,7 +12,7 @@ Only the video tokenizer (spatio-temporal VQ-VAE) is implemented so far.
 ## TODO
 
 - [x] Video tokenizer (ST-ViViT + VQ-VAE)
-- [x] Get Dataset
+- [x] Create Dataset
 - [ ] Training tokenizer
 - [ ] Latent Action Model
 - [ ] Dynamics Model (MaskGIT-style or LeWorldModel-style)
